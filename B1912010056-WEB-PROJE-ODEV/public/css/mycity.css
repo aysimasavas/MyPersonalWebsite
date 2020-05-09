@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Hind+Madurai&display=swap');
+.slider_image {
+    
+    width: 600px;
+    height: 480px;
+}
+
+.Post {
+    margin-top: 125px;
+    padding: 15px;
+}
+
+.post_header {
+    background-color: #8383af;
+    color: white;
+    font-family: 'Hind Madurai', sans-serif;
+    
+}
+
+.post_text {
+    background-color: rgb(206, 187, 224);
+    color: white;
+}
+
+.image_link {
+    color: inherit;
+    text-decoration: underline;
+}

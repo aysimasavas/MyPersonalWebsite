@@ -1,0 +1,8 @@
+.box{
+    margin: 24px;
+    padding: 24px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    box-shadow: 0 5px 20px 1px rgba(0, 0, 0, 0.2);
+}

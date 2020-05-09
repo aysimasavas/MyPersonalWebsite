@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet"');
+.cv_baslik{
+    font-size:48px; 
+    font-family: 'Rubik', sans-serif;
+
+}
+.cv_table{
+    margin-top: 72px;
+ 
+}
+
+.cv_yazi{
+    font-size: 25px;
+    
+}

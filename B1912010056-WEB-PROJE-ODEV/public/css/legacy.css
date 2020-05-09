@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Hind+Madurai&display=swap');
+
+
+.kutu_image
+{
+    margin: 10px;
+    border: solid;
+    border-color: #8383af;
+
+}
+.mirasimiz_baslik
+{
+    font-family: 'Hind Madurai', sans-serif;
+}
+.mirasimiz_yazi
+{
+    font-family: 'Hind Madurai', sans-serif;
+    font-size: 20px;
+}
+.mirasimiz_yazi_kutu{
+    margin: 24px;
+}

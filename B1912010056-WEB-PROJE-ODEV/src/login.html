@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+  <title>Login</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <link rel="stylesheet" href="../public/css/login.css">
+  <script src="../public/js/login.js"></script>
+</head>
+
+<body>
+  <div class="container">
+
+    <h2 id="title">Login</h2>
+
+    <div class="items">
+      <form action="../src/login.php" onsubmit="return emptyCheck()" method="POST">
+        <input type="email" id="username" name="username" placeholder="Username ( b191210056@ogr.sakarya.com.tr )" />
+        <input type="password" id="password" name="password" placeholder="Password (123)" />
+        <button id="button" type="submit" >Giriş</button>
+      </form>
+    </div>
+  </div>
+  </div>
+
+</body>
+
+</html>
